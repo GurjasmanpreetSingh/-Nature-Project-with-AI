@@ -1,0 +1,22 @@
+Promt 1 - For My Assignment Project of 50 Marks Create a Nature & Environment Website using HTML and CSS.
+The website should present the beauty of nature and provide information about forests, mountains, rivers, wildlife, and environmental protection.
+Task Marks
+Header & Navigation 5
+Hero Section 8
+About Nature 7
+Nature Categories 10
+Wildlife Section 5
+Protect Nature 5
+Contact Form 5
+Footer 5
+Total 50
+
+Prompt 2 - i see the website it look very good according to ui ux so you think anything need to be change ? 
+
+Prompt 3 - Now add this image in above code for showcase on website with proper css styling
+
+Prompt 4 - I want to change name of the my website like simple and impactful suggest one name 
+
+Prompt 5 - I want to change this picture with some other picture Give me one best alternative
+
+Prompt 6 - need another img for hero section and need url for css
